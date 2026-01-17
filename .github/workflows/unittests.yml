@@ -1,4 +1,4 @@
-name: Unit Tests
+name: unittests
 
 on: [push, pull_request] #  When this workflow is triggered
 # It runs automatically every time you push code or open a pull request.
