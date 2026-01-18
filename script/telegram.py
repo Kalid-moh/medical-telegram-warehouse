@@ -342,8 +342,8 @@ Examples:
     
     # Target channels from challenge document
     target_channels = [
-        #'@cheMed123',           # CheMed - Medical products
-        #'@lobelia4cosmetics',   # Lobelia - Cosmetics and health products  
+        '@cheMed123',           # CheMed - Medical products
+        '@lobelia4cosmetics',   # Lobelia - Cosmetics and health products  
         '@tikvahpharma',
         '@tenamereja'       # Tikvah Pharma - Pharmaceuticals
         # Add more channels from https://et.tgstat.com/medicine as needed
