@@ -5,3 +5,4 @@ sources:
     schema: raw
     tables:
       - name: telegram_messages
+        description: "Raw messages scraped from Telegram channels"
