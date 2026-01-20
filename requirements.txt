@@ -6,3 +6,6 @@ pandas>=2.2.0
 fastapi>=0.105.0
 uvicorn>=0.25.0
 sqlalchemy>=2.0.0
+dagster>=1.6.0
+dagster-webserver>=1.6.0
+dagster-dbt>=0.22.0
