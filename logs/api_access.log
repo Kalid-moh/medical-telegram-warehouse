@@ -1,0 +1,23 @@
+2026-01-20 13:08:56,274 - MedicalAPI - INFO - Method: GET Path: / Status: 200 Duration: 0.02s
+2026-01-20 13:08:56,564 - MedicalAPI - INFO - Method: GET Path: /favicon.ico Status: 404 Duration: 0.00s
+2026-01-20 13:09:24,159 - MedicalAPI - INFO - Generating Top Products report (limit=10)
+2026-01-20 13:09:24,390 - MedicalAPI - INFO - Method: GET Path: /api/reports/top-products Status: 200 Duration: 0.24s
+2026-01-20 13:13:04,699 - MedicalAPI - INFO - Generating Top Products report (limit=2)
+2026-01-20 13:13:04,706 - MedicalAPI - INFO - Method: GET Path: /api/reports/top-products Status: 200 Duration: 0.01s
+2026-01-20 13:13:41,215 - MedicalAPI - INFO - Generating Top Products report (limit=10)
+2026-01-20 13:13:41,223 - MedicalAPI - INFO - Method: GET Path: /api/reports/top-products Status: 200 Duration: 0.01s
+2026-01-20 13:34:32,753 - MedicalAPI - INFO - Generating Top Products report (limit=10)
+2026-01-20 13:34:32,920 - MedicalAPI - INFO - Method: GET Path: /api/reports/top-products Status: 200 Duration: 0.18s
+2026-01-20 13:34:48,845 - MedicalAPI - INFO - Retrieving activity trends for channel: cheMed123
+2026-01-20 13:34:48,866 - MedicalAPI - INFO - Method: GET Path: /api/channels/cheMed123/activity Status: 200 Duration: 0.03s
+2026-01-20 13:43:53,921 - MedicalAPI - INFO - Method: GET Path: /api/search/messages Status: 404 Duration: 0.00s
+2026-01-20 13:47:39,264 - MedicalAPI - INFO - Searching messages for keyword: paracetamol with limit: 20
+2026-01-20 13:47:39,449 - MedicalAPI - INFO - Method: GET Path: /api/search/messages Status: 200 Duration: 0.20s
+2026-01-20 13:51:48,563 - MedicalAPI - INFO - Generating Visual Content Statistics report
+2026-01-20 13:51:48,747 - MedicalAPI - INFO - Method: GET Path: /api/reports/visual-content Status: 200 Duration: 0.20s
+2026-01-20 14:01:55,839 - MedicalAPI - INFO - Method: GET Path: /api/reports/visual-content Status: 200 Duration: 0.20s
+2026-01-20 14:02:40,447 - MedicalAPI - INFO - Method: GET Path: /docs Status: 200 Duration: 0.00s
+2026-01-20 14:02:41,598 - MedicalAPI - INFO - Method: GET Path: /openapi.json Status: 200 Duration: 0.04s
+2026-01-20 14:03:01,312 - MedicalAPI - INFO - Method: GET Path: /api/reports/top-products Status: 200 Duration: 0.02s
+2026-01-20 14:07:21,830 - MedicalAPI - INFO - Method: GET Path: /docs Status: 200 Duration: 0.00s
+2026-01-20 14:07:22,288 - MedicalAPI - INFO - Method: GET Path: /openapi.json Status: 200 Duration: 0.04s
