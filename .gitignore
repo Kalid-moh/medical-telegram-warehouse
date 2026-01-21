@@ -3,3 +3,4 @@
 /data
 /src/__pycache__
 /logs
+telegram_scraper_session.session
